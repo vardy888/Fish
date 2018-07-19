@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "net_5",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.504,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.4,
+          "value": 1.2
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.4,
+          "value": 1.2
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "447c32bb-5835-4e96-aab5-bf3acd48498d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_red_run",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ebade6fa-d11b-4db8-908e-8ae807074be2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "23efb5f2-b81d-4d92-9800-98de2e611ada"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "e054c56d-fb4e-4f19-92cb-6e3becef340d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "8fe8c674-f52a-48b8-a08f-7251d2090c07"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

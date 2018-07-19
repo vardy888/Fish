@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_jinshayu_dead",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "935c3498-7cb2-4951-a9ad-3c205d289fc6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a1bc3d6e-9952-4c4e-a7f6-48f53a19b079"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "8a7f7a65-f870-4a72-8f3a-2cb40a8a483b"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "ac85d425-735b-4090-b90b-29317031b168"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

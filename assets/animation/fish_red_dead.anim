@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_red_dead",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b70617ed-d413-436e-84e9-c64ac2cb02cb"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "6dbb23b8-2616-4758-a16c-1b743c88ce90"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4acc7db2-5c72-4322-8da5-2d18cf7537a7"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "fc6bf973-b044-4087-91bd-6be2b8ddcf06"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
