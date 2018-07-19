@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_gui_dead",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9b4b1999-3830-4c3d-b762-94572d7944c7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "84a5bdb2-f766-47b5-a581-b3e0e6476755"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "3d502d08-9ba3-4b4e-a5a3-4c4e07c5eb57"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "27d4ef03-c04e-4663-86d6-07122f9aa497"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

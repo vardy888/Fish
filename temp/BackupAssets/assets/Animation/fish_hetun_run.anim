@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_hetun_run",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5844c4e4-3ddc-4056-9216-15575c95729b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8d11d49e-0969-4d50-b043-bc36d155064b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a9948433-5fae-4a87-873e-da60e0a275d1"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f5bd389b-f559-4c4e-bf8c-65e4935e2e08"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

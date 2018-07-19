@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_bigred_run",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b5f61079-7d04-4b83-81c4-4c5103c91b66"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "aad32927-139c-411c-b762-3a373b16e4a5"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b4f75edf-c2a8-4b67-9c6c-a205c554b5a4"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9cc9a286-f55c-4619-8afa-7207d2dc491f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

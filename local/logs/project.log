@@ -1,0 +1,54 @@
+2018-05-18T01:26:56.632Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-18T01:26:56.636Z - normal: checking language setting...
+2018-05-18T01:26:56.636Z - normal: Language: zh
+2018-05-18T01:27:00.853Z - success: protocol editor-framework registered
+2018-05-18T01:27:00.853Z - success: protocol app registered
+2018-05-18T01:27:00.853Z - success: protocol theme registered
+2018-05-18T01:27:00.854Z - success: protocol packages registered
+2018-05-18T01:27:00.854Z - success: protocol unpack registerred
+2018-05-18T01:27:00.854Z - success: protocol disable-commonjs registerred
+2018-05-18T01:27:01.202Z - normal: connected!
+2018-05-18T01:27:01.207Z - normal: Check project D:\cocosDemo\my\Fish
+2018-05-18T01:27:01.214Z - normal: Initializing Cocos2d
+2018-05-18T01:27:03.000Z - normal: Initializing Asset Database
+2018-05-18T01:27:03.132Z - success: protocol uuid registerred
+2018-05-18T01:27:03.133Z - success: protocol db registerred
+2018-05-18T01:27:03.133Z - success: protocol thumbnail registerred
+2018-05-18T01:27:03.133Z - normal: Loading editor/builtin packages
+2018-05-18T01:27:03.275Z - success: anysdk loaded
+2018-05-18T01:27:03.461Z - success: assets loaded
+2018-05-18T01:27:03.463Z - success: builder loaded
+2018-05-18T01:27:03.465Z - success: cocos-analytics loaded
+2018-05-18T01:27:03.479Z - success: console loaded
+2018-05-18T01:27:03.517Z - success: fb-instant-games loaded
+2018-05-18T01:27:03.520Z - success: hierarchy loaded
+2018-05-18T01:27:03.525Z - success: inspector loaded
+2018-05-18T01:27:03.527Z - success: keystore loaded
+2018-05-18T01:27:03.529Z - success: node-library loaded
+2018-05-18T01:27:03.531Z - success: package-asset loaded
+2018-05-18T01:27:03.533Z - success: preferences loaded
+2018-05-18T01:27:03.535Z - success: project-exporter loaded
+2018-05-18T01:27:03.551Z - success: project-importer loaded
+2018-05-18T01:27:03.553Z - success: project-settings loaded
+2018-05-18T01:27:03.555Z - success: ui-kit loaded
+2018-05-18T01:27:03.573Z - success: ui-grid loaded
+2018-05-18T01:27:03.592Z - success: scene loaded
+2018-05-18T01:27:03.594Z - success: sprite-editor loaded
+2018-05-18T01:27:03.597Z - success: store loaded
+2018-05-18T01:27:03.602Z - success: timeline loaded
+2018-05-18T01:27:03.602Z - normal: Loading builtin packages
+2018-05-18T01:27:03.616Z - success: asset-db-debugger loaded
+2018-05-18T01:27:03.618Z - success: code-editor loaded
+2018-05-18T01:27:03.622Z - success: color-picker loaded
+2018-05-18T01:27:03.625Z - success: package-manager loaded
+2018-05-18T01:27:03.631Z - success: sdkbox loaded
+2018-05-18T01:27:03.639Z - success: tester loaded
+2018-05-18T01:27:03.642Z - success: ui-kit-preview-extra loaded
+2018-05-18T01:27:03.643Z - success: ui-kit-preview loaded
+2018-05-18T01:27:03.645Z - success: ui-tree loaded
+2018-05-18T01:27:05.416Z - normal: Initializing project D:\cocosDemo\my\Fish
+2018-05-18T01:27:05.445Z - normal: Loading packages
+2018-05-18T01:27:05.450Z - normal: Watching packages
+2018-05-18T01:27:05.481Z - normal: Run Application
+2018-05-18T01:27:09.788Z - success: preview server running at http://localhost:7456
+2018-05-18T01:27:19.256Z - normal: 1.9.0

@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cointextures.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "gold_01": {
+      "__uuid__": "e3c42587-65a4-42ac-a6a2-70bad1f17d6b"
+    },
+    "gold_02": {
+      "__uuid__": "c79845ee-f328-4a36-83fb-92ebd9d9fce2"
+    },
+    "gold_03": {
+      "__uuid__": "3201b9d0-c3b5-43b5-90fa-8cae8383abe3"
+    },
+    "gold_04": {
+      "__uuid__": "48c59b05-a6d6-430b-9a20-bfe9638fe01c"
+    },
+    "gold_05": {
+      "__uuid__": "9942a508-146a-4b40-93b8-c518ef07e9bd"
+    },
+    "gold_06": {
+      "__uuid__": "8492f4ba-4a67-4114-8bd3-37a3ba53494b"
+    },
+    "gold_07": {
+      "__uuid__": "c309b7c6-5a61-41db-9b24-5477c0d08d48"
+    },
+    "gold_08": {
+      "__uuid__": "6a823ff7-cd8a-45a7-b3e9-a0056842332f"
+    },
+    "gold_09": {
+      "__uuid__": "dfef2388-1116-4b72-9d11-69e7a20e7698"
+    },
+    "gold_10": {
+      "__uuid__": "69b87caf-69e1-4c24-ae10-b89b2c074130"
+    },
+    "goldnum_0": {
+      "__uuid__": "64579b65-dfbe-4527-9f41-df6f28feacc3"
+    },
+    "goldnum_1": {
+      "__uuid__": "6b75d4b2-d44a-4b12-b801-92d497541352"
+    },
+    "goldnum_2": {
+      "__uuid__": "60209793-d5d6-4cbb-895b-f0ada1033330"
+    },
+    "goldnum_3": {
+      "__uuid__": "edd2f845-39f1-4482-8738-47ef8851ffe4"
+    },
+    "goldnum_4": {
+      "__uuid__": "b7f82153-f64f-4f7b-b8dc-5cb7592e9c69"
+    },
+    "goldnum_5": {
+      "__uuid__": "db52cf65-4306-41e9-995d-0a6650363874"
+    },
+    "goldnum_6": {
+      "__uuid__": "adf51a7e-57e1-4589-adf6-a49e5b51d8ca"
+    },
+    "goldnum_7": {
+      "__uuid__": "a4a617f1-a852-49c5-832c-aa244664d563"
+    },
+    "goldnum_8": {
+      "__uuid__": "6c7c8d3a-609f-4ff6-aad4-4872c14b49a5"
+    },
+    "goldnum_9": {
+      "__uuid__": "b39efbfb-2383-4603-8ada-47741174ec5c"
+    },
+    "goldnum_x": {
+      "__uuid__": "a4fd75e0-2a44-48b6-ae72-cc3d30ff404c"
+    },
+    "silver_01": {
+      "__uuid__": "3292bdb8-ca8d-46f4-b6f5-b2c675f67a9c"
+    },
+    "silver_02": {
+      "__uuid__": "edf66781-d8f6-4431-bda8-9f209c504792"
+    },
+    "silver_03": {
+      "__uuid__": "54a94ac0-e83b-43eb-bc03-900023c1e8c6"
+    },
+    "silver_04": {
+      "__uuid__": "41775d3c-1847-480d-b45c-c1dd6bcbde98"
+    },
+    "silver_05": {
+      "__uuid__": "19a90244-754e-40a2-b819-5fc811c2790b"
+    },
+    "silver_06": {
+      "__uuid__": "d43cce83-86f7-451f-a732-628dd22423cc"
+    },
+    "silver_07": {
+      "__uuid__": "661f39d4-4910-4b02-842b-62c250e2e8ae"
+    },
+    "silver_08": {
+      "__uuid__": "d169fd15-2b98-4d55-a153-7c8273fe3d95"
+    },
+    "silver_09": {
+      "__uuid__": "a6ee8a3a-2617-4f39-9032-beddd66f68c9"
+    },
+    "silver_10": {
+      "__uuid__": "3d6c2db4-094e-47fa-a42d-b16c0c27e0ed"
+    }
+  }
+}

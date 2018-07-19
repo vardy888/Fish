@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goldnum_2",
+    "texture": "f891bef9-001c-48b4-bb39-ac88c417423e",
+    "atlas": "b22483aa-2ebc-49ed-a4a4-ba3d0b8d1c51",
+    "rect": [
+      475,
+      48,
+      36,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      45
+    ]
+  }
+}

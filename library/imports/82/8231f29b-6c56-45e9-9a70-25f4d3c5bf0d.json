@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hailuoshuimu_run_4",
+    "texture": "087d715a-d2e4-4895-b9bc-042e9b45350d",
+    "atlas": "61ef6369-b1fd-4138-ab6e-b7b43239ca07",
+    "rect": [
+      1746,
+      802,
+      97,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      76
+    ],
+    "rotated": 1
+  }
+}

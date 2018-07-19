@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_jinshayu_run_5",
+    "texture": "087d715a-d2e4-4895-b9bc-042e9b45350d",
+    "atlas": "61ef6369-b1fd-4138-ab6e-b7b43239ca07",
+    "rect": [
+      1,
+      75,
+      514,
+      217
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      514,
+      217
+    ]
+  }
+}

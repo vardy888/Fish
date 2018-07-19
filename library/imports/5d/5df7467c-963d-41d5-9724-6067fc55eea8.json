@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "silverDown",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3292bdb8-ca8d-46f4-b6f5-b2c675f67a9c"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "edf66781-d8f6-4431-bda8-9f209c504792"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "54a94ac0-e83b-43eb-bc03-900023c1e8c6"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "41775d3c-1847-480d-b45c-c1dd6bcbde98"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "19a90244-754e-40a2-b819-5fc811c2790b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d43cce83-86f7-451f-a732-628dd22423cc"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "661f39d4-4910-4b02-842b-62c250e2e8ae"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "d169fd15-2b98-4d55-a153-7c8273fe3d95"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "a6ee8a3a-2617-4f39-9032-beddd66f68c9"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "3d6c2db4-094e-47fa-a42d-b16c0c27e0ed"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
